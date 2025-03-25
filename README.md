@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Alternatively, install dependencies directly with:
 ```bash
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn shap joblib
+pip install pandas numpy scikit-learn xgboost matplotlib seaborn shap joblib imblearn boruta lxml scipy
 ```
 
 ---
